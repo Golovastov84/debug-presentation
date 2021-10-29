@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
         // создаем медоносы: яблочное и сливовое деревья
-        HoneyPlant appleTree = new HoneyPlant(40);
+        HoneyPlant appleTree = new HoneyPlant(50);
         HoneyPlant plumTree = new HoneyPlant(30);
 
         // добавляем деревья в коллекцию
